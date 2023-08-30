@@ -26,9 +26,8 @@ whole cycle
 <img src="https://github.com/Muk200/MNIST-NNmathsANDnumpy/blob/main/Pics/FFlayer.png"  width="350px" height="250px" />
 
 1. input layer
-2. 1 hidden layer of size 10 with ReLu activation function
-3. 1 hidden layer of size 10 with Softmax activation function
-4. output 
+2. 1 hidden layer of size 10 with ReLu activation function - 1 hidden layer of size 10 with Softmax activation function
+3. output 
 
 
 #### **The input layer** 
